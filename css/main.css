@@ -2568,3 +2568,7 @@ footer .copyright span:last-child::after {
 		width: 120px;
 		height: auto;
 }
+
+.desc {
+	text-align: justify;
+}
